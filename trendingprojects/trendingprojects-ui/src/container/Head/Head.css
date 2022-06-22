@@ -1,0 +1,12 @@
+.app__head{
+    background-color: #2d2d2d;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    font-weight: 400;
+    color: #fff;
+    font-size: 0.75rem;
+    margin-top: 10px;
+}

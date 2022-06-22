@@ -1,0 +1,6 @@
+
+.app__userlist .app__user:nth-child(2n){
+    background-color: rgb(255, 255, 255);
+    box-shadow:0 0 15px 4px rgba(0, 0, 0, 0.089);
+
+}

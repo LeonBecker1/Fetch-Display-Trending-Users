@@ -1,0 +1,19 @@
+.app__user{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+}
+
+img{
+    width: 100px;
+    margin-left: 100px;
+}
+
+.app__user div{
+    text-align: left;
+}
+
+span{
+    text-decoration: underline;
+}

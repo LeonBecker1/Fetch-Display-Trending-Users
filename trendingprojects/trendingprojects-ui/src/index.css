@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: rgb(49, 49, 49);
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+h3{
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+button{
+
+    border: none;
+    padding: 10px;
+    background-color: rgb(65, 228, 131);
+    border-radius: 3px;
+    color: #fff;
+    font-weight: 600;
+    transition: 0.4s;
+}
+
+button:hover{
+    background-color: rgb(49, 170, 97);
+
+}
