@@ -7,7 +7,7 @@ To test this project, you should open the trendingprojects-api folder within an 
 The (MVC) architecture of this project is relatively simple and illustrated trough a diagram within the project folder.
 A user makes a request through a form field within the view, that gets passed to the controller within the backend, that utilizes a project service, to attain the corresponding response. This project services facillitates  a http-request to the third party api and afterwards processes the response data, to create a list of instances of the project class, which stands for our model.
 
-The backend is written in java and utilizes the Http Client API aswell as the spring framweork.
+The backend is written in java and utilizes the Http Client API aswell as the spring framweork and lombok.  
 The frontend utilizes react and it's context api, aswell as plain css 
 
 
